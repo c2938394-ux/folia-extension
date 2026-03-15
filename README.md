@@ -110,4 +110,4 @@ Encrypted entries show only ciphertext. You have **2 attempts** to enter the cor
 
 ---
 
-Built for the lingodec Hackathon 2026.
+Built for the lingodev Hackathon 2026.
